@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name SN74LVC2G80DCTR)(type KiCad)(uri "C:/Users/John J. Hritz/Documents/Home Electronics/CircuitLaunch/Door Buzzer/SN74LVC2G80DCTR/footprints.pretty")(options "")(descr ""))
+  (lib (name NE555PSR)(type KiCad)(uri "C:/Users/John J. Hritz/Documents/KiCAD New Parts/UL_NE555PSR/KiCAD/2019-06-04_21-06-27/footprints.pretty")(options "")(descr ""))
+  (lib (name CT-1212CL-SMT)(type Legacy)(uri "C:/Users/John J. Hritz/Documents/KiCAD New Parts/CT-1212CL-SMT/CT-1212CL-SMT.mod")(options "")(descr ""))
+  (lib (name CT-1205CL-SMT)(type Legacy)(uri ${KIPRJMOD}/CT-1205CL-SMT/CT-1205CL-SMT.mod)(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/UL_MAX7375AXR105T/footprints.pretty)(options "")(descr ""))
+)

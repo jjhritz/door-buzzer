@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name SN74LVC2G80DCTR)(type Legacy)(uri ${KIPRJMOD}/SN74LVC2G80DCTR/SN74LVC2G80DCTR.lib)(options "")(descr ""))
+  (lib (name Door_Buzzer)(type Legacy)(uri ${KIPRJMOD}/Door_Buzzer.lib)(options "")(descr ""))
+)
